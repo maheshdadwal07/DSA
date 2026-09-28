@@ -38,4 +38,12 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/maheshdadwal07/DSA/tree/master/0047-permutations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/maheshdadwal07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/maheshdadwal07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
