@@ -27,6 +27,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/maheshdadwal07/DSA/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/maheshdadwal07/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/maheshdadwal07/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -44,13 +45,16 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maheshdadwal07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/maheshdadwal07/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/maheshdadwal07/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maheshdadwal07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/maheshdadwal07/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/maheshdadwal07/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/maheshdadwal07/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/maheshdadwal07/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
