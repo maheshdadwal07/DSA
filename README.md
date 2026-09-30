@@ -46,6 +46,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maheshdadwal07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/maheshdadwal07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/maheshdadwal07/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/maheshdadwal07/DSA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/maheshdadwal07/DSA/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
@@ -58,4 +59,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/maheshdadwal07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/maheshdadwal07/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/maheshdadwal07/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
