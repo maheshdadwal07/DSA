@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maheshdadwal07/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/maheshdadwal07/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/maheshdadwal07/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/maheshdadwal07/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/maheshdadwal07/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -78,9 +79,19 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/maheshdadwal07/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/maheshdadwal07/DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/maheshdadwal07/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/maheshdadwal07/DSA/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/maheshdadwal07/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/maheshdadwal07/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
