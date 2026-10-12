@@ -1,4 +1,3 @@
-
 import java.util.*;
 
 class Node {
@@ -13,70 +12,86 @@ class Node {
 
 public class Main {
 
+    static Node buildTree(int[] arr) {
+        if (arr.length == 0) return null;
+
+        Node root = new Node(arr[0]);
+        Queue<Node> q = new LinkedList<>();
+        q.offer(root);
+
+        int i = 1;
+
+        while (i < arr.length) {
+            Node curr = q.poll();
+
+            if (i < arr.length) {
+                curr.left = new Node(arr[i++]);
+                q.offer(curr.left);
+            }
+
+            if (i < arr.length) {
+                curr.right = new Node(arr[i++]);
+                q.offer(curr.right);
+            }
+        }
+
+        return root;
+    }
+
+    static void preOrder(Node root) {
+        if (root == null) return;
+
+        System.out.print(root.data + " ");
+        preOrder(root.left);
+        preOrder(root.right);
+    }
+
+    static void inOrder(Node root) {
+        if (root == null) return;
+
+        inOrder(root.left);
+        System.out.print(root.data + " ");
+        inOrder(root.right);
+    }
+
+    static void postOrder(Node root) {
+        if (root == null) return;
+
+        postOrder(root.left);
+        postOrder(root.right);
+        System.out.print(root.data + " ");
+    }
+
     static void levelOrder(Node root) {
         if (root == null) return;
 
         Queue<Node> q = new LinkedList<>();
-        q.add(root);
+        q.offer(root);
 
         while (!q.isEmpty()) {
             Node curr = q.poll();
             System.out.print(curr.data + " ");
 
-            if (curr.left != null)
-                q.add(curr.left);
-
-            if (curr.right != null)
-                q.add(curr.right);
+            if (curr.left != null) q.offer(curr.left);
+            if (curr.right != null) q.offer(curr.right);
         }
     }
 
-    static void preorder(Node root) {
-        if (root == null) return;
-
-        System.out.print(root.data + " ");
-        preorder(root.left);
-        preorder(root.right);
-    }
-
-    static void inorder(Node root) {
-        if (root == null) return;
-
-        inorder(root.left);
-        System.out.print(root.data + " ");
-        inorder(root.right);
-    }
-
-    static void postorder(Node root) {
-        if (root == null) return;
-
-        postorder(root.left);
-        postorder(root.right);
-        System.out.print(root.data + " ");
-    }
-
     public static void main(String[] args) {
+        int[] arr = {1, 2, 3, 4, 5, 6, 7};
 
-        Node root = new Node(1);
-        root.left = new Node(2);
-        root.right = new Node(3);
+        Node root = buildTree(arr);
 
-        root.left.left = new Node(4);
-        root.left.right = new Node(5);
-
-        root.right.left = new Node(6);
-        root.right.right = new Node(7);
-
-        System.out.print("Level Order: ");
-        levelOrder(root);
-
-        System.out.print("\nPreorder: ");
-        preorder(root);
+        System.out.print("Preorder: ");
+        preOrder(root);
 
         System.out.print("\nInorder: ");
-        inorder(root);
+        inOrder(root);
 
         System.out.print("\nPostorder: ");
-        postorder(root);
+        postOrder(root);
+
+        System.out.print("\nLevel Order: ");
+        levelOrder(root);
     }
 }
