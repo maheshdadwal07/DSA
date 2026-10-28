@@ -22,6 +22,7 @@
 | [0039-combination-sum](https://github.com/maheshdadwal07/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/maheshdadwal07/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/maheshdadwal07/DSA/tree/master/0047-permutations-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/maheshdadwal07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,5 +161,14 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/maheshdadwal07/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/maheshdadwal07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/maheshdadwal07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/maheshdadwal07/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/maheshdadwal07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
