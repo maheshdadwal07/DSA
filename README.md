@@ -99,6 +99,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/maheshdadwal07/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0743-network-delay-time](https://github.com/maheshdadwal07/DSA/tree/master/0743-network-delay-time) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/maheshdadwal07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/maheshdadwal07/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/maheshdadwal07/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0743-network-delay-time](https://github.com/maheshdadwal07/DSA/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0207-course-schedule](https://github.com/maheshdadwal07/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/maheshdadwal07/DSA/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/maheshdadwal07/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0743-network-delay-time](https://github.com/maheshdadwal07/DSA/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -188,6 +191,7 @@
 | [0133-clone-graph](https://github.com/maheshdadwal07/DSA/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/maheshdadwal07/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/maheshdadwal07/DSA/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/maheshdadwal07/DSA/tree/master/0743-network-delay-time) |
 ## Union-Find
 |  |
 | ------- |
@@ -201,4 +205,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/maheshdadwal07/DSA/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/maheshdadwal07/DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/maheshdadwal07/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
