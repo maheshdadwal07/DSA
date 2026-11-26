@@ -138,6 +138,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/maheshdadwal07/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/maheshdadwal07/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0684-redundant-connection](https://github.com/maheshdadwal07/DSA/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/maheshdadwal07/DSA/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/maheshdadwal07/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/maheshdadwal07/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
@@ -153,6 +154,7 @@
 | [0210-course-schedule-ii](https://github.com/maheshdadwal07/DSA/tree/master/0210-course-schedule-ii) |
 | [0404-sum-of-left-leaves](https://github.com/maheshdadwal07/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0684-redundant-connection](https://github.com/maheshdadwal07/DSA/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/maheshdadwal07/DSA/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/maheshdadwal07/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/maheshdadwal07/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Binary Tree
@@ -197,6 +199,7 @@
 | [0207-course-schedule](https://github.com/maheshdadwal07/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/maheshdadwal07/DSA/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/maheshdadwal07/DSA/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/maheshdadwal07/DSA/tree/master/0685-redundant-connection-ii) |
 | [0743-network-delay-time](https://github.com/maheshdadwal07/DSA/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/maheshdadwal07/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Union-Find
@@ -204,6 +207,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/maheshdadwal07/DSA/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/maheshdadwal07/DSA/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/maheshdadwal07/DSA/tree/master/0685-redundant-connection-ii) |
 ## Topological Sort
 |  |
 | ------- |
