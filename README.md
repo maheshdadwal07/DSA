@@ -22,6 +22,7 @@
 | [0039-combination-sum](https://github.com/maheshdadwal07/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/maheshdadwal07/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/maheshdadwal07/DSA/tree/master/0047-permutations-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshdadwal07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/maheshdadwal07/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/maheshdadwal07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
@@ -69,6 +70,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/maheshdadwal07/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/maheshdadwal07/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/maheshdadwal07/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshdadwal07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/maheshdadwal07/DSA/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/maheshdadwal07/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshdadwal07/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/maheshdadwal07/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/maheshdadwal07/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Sliding Window
